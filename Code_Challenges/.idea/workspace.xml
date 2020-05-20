@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0b8189b-9695-47f0-8b37-6fc53a2bd4d2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R9WGIuGQmOlOJffZJHuy6hA47U" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\josec\Desktop\Projects\Code Challenges\HackerRank\src\com\hackerRank" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.CodeWars.Factorial" />
+      <module name="CodeChallenges" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetMiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.CodeWars.GetMiddleCharacter" />
+      <module name="CodeChallenges" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrowthPopulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.CodeWars.GrowthPopulation" />
+      <module name="CodeChallenges" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOffOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.CodeWars.SumOffOddNumber" />
+      <module name="CodeChallenges" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.CodeWars.VowelCount" />
+      <module name="CodeChallenges" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.VowelCount" />
+      <item itemvalue="Application.GetMiddleCharacter" />
+      <item itemvalue="Application.SumOffOddNumber" />
+      <item itemvalue="Application.GrowthPopulation" />
+      <item itemvalue="Application.Factorial" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.GrowthPopulation" />
+        <item itemvalue="Application.SumOffOddNumber" />
+        <item itemvalue="Application.GetMiddleCharacter" />
+        <item itemvalue="Application.VowelCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0b8189b-9695-47f0-8b37-6fc53a2bd4d2" name="Default Changelist" comment="" />
+      <created>1569079694660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569079694660</updated>
+      <workItem from="1569079696483" duration="9149000" />
+      <workItem from="1569093823998" duration="4692000" />
+      <workItem from="1569172711755" duration="7000" />
+      <workItem from="1569172736598" duration="1599000" />
+      <workItem from="1569179363832" duration="4038000" />
+      <workItem from="1569295978895" duration="9784000" />
+      <workItem from="1569470163390" duration="9883000" />
+      <workItem from="1570404143928" duration="1358000" />
+      <workItem from="1570673436476" duration="10218000" />
+      <workItem from="1570889207356" duration="113000" />
+      <workItem from="1570890463905" duration="11524000" />
+      <workItem from="1570933006426" duration="23000" />
+      <workItem from="1570936663283" duration="2851000" />
+      <workItem from="1570984663304" duration="15493000" />
+      <workItem from="1571021487476" duration="16844000" />
+      <workItem from="1571188832008" duration="333000" />
+      <workItem from="1571193369503" duration="7498000" />
+      <workItem from="1571437878214" duration="10000" />
+      <workItem from="1571503136437" duration="847000" />
+      <workItem from="1571714295486" duration="4520000" />
+      <workItem from="1571718834599" duration="123000" />
+      <workItem from="1571718976701" duration="585000" />
+      <workItem from="1571719569516" duration="452000" />
+      <workItem from="1571774833068" duration="7059000" />
+      <workItem from="1571885310623" duration="3384000" />
+      <workItem from="1572195109820" duration="34000" />
+      <workItem from="1572195208705" duration="4174000" />
+      <workItem from="1572206486247" duration="3828000" />
+      <workItem from="1572926290978" duration="3595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
