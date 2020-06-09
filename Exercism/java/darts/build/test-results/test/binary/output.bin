@@ -1,0 +1,28 @@
+#intial values when equal: 0.0 0.0
+distance: 0
+$intial values when equal: 0.0 -1.0
+distance: 1
+#intial values when equal: 0.7 0.7
+distance: 1
+&intial values adding/equal: -3.5 3.5
+distance: 3
+$intial values when equal: 0.5 -4.0
+distance: 3
+%intial values when equal: -0.1 -0.1
+distance: 0
+&intial values adding/equal: -9.0 9.0
+distance: 9
+	&intial values adding/equal: 7.1 -7.1
+	distance: 7
+
+'intial values adding/equal: -3.6 -3.6
+
+distance: 3
+$intial values when equal: -5.0 0.0
+distance: 5
+$intial values when equal: 0.0 10.0
+distance: 10
+&intial values adding/equal: -7.0 7.0
+distance: 7
+$intial values when equal: 0.8 -0.8
+distance: 0
