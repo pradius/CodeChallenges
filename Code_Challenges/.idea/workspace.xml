@@ -1,8 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b8189b-9695-47f0-8b37-6fc53a2bd4d2" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="e0b8189b-9695-47f0-8b37-6fc53a2bd4d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechallenges/LeetCode/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechallenges/LeetCode/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/META-INF/CodeChallenges.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Dominos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Dominos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/InterviewPractice/FirstDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/InterviewPractice/FirstDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/InterviewPractice/RotateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/InterviewPractice/RotateImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/InterviewPractice/firstNotRepeatingCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/InterviewPractice/firstNotRepeatingCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Intro/AdjacentElementsProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Intro/AdjacentElementsProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Intro/CenturyFromYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Intro/CenturyFromYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Intro/MakeArrayConsecutive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Intro/MakeArrayConsecutive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Intro/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Intro/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Intro/shapeArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/Intro/shapeArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/NumberOfEvenDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/NumberOfEvenDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/AddTwoDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/AddTwoDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/Candies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/Candies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/CircleOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/CircleOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/KnapsackLight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/KnapsackLight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/LargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/LargestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/LateRide.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/LateRide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/MaxMultiple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/MaxMultiple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/PhoneCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/TheCore/PhoneCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/WaterPlants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/CodeSignal/WaterPlants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/Arithmetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/Arithmetic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/ClosestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/ClosestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/EvenOrOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/EvenOrOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/GetMiddleCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/GetMiddleCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/GrowthPopulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/GrowthPopulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/Mumbling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/Mumbling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/OddorEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/OddorEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/SumOffOddNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/SumOffOddNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/VowelCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CodeWars/VowelCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CountTheDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/CountTheDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/EoF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/EoF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/HackerRank/ArrayDS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/HackerRank/ArrayDS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/HackerRank/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/HackerRank/ReverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/HappyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/HappyNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/ImpVSDecStyles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/ImpVSDecStyles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/DashInsert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/DashInsert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/IsAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/IsAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/KFrequentElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/KFrequentElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/LicenseKeyFormatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/LicenseKeyFormatting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/RemoveVowelsFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/RemoveVowelsFromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/ReverseStringII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/ReverseStringII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/ReverseVowelsOfString$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/ReverseVowelsOfString$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/ReverseVowelsOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/ReverseVowelsOfString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/SubstringWithOnlyOneDistinctLetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/SubstringWithOnlyOneDistinctLetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/UniqueEmailAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/LeetCode/UniqueEmailAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/Scholastic/ClosestEnemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/Scholastic/ClosestEnemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/StreamsLambda1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/StreamsLambda1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/SumOfDivisors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/SumOfDivisors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/SumOfTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/SumOfTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/isLuckyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeChallenges/com/codechallenges/isLuckyNumber.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +89,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1R9WGIuGQmOlOJffZJHuy6hA47U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -28,19 +115,7 @@
       <recent name="C:\Users\josec\Desktop\Projects\Code Challenges\HackerRank\src\com\hackerRank" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Factorial">
+  <component name="RunManager" selected="Application.TwoSum">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechallenges.CodeWars.Factorial" />
       <module name="CodeChallenges" />
@@ -73,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.CodeWars.VowelCount" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.TwoSum" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -88,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.VowelCount" />
       <item itemvalue="Application.GetMiddleCharacter" />
       <item itemvalue="Application.SumOffOddNumber" />
       <item itemvalue="Application.GrowthPopulation" />
       <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.TwoSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.GrowthPopulation" />
         <item itemvalue="Application.SumOffOddNumber" />
         <item itemvalue="Application.GetMiddleCharacter" />
-        <item itemvalue="Application.VowelCount" />
       </list>
     </recent_temporary>
   </component>
@@ -145,5 +220,58 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1592303752941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592303752941" />
+    <state width="1899" height="242" key="GridCell.Tab.0.bottom" timestamp="1592308010481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592308010481" />
+    <state width="1899" height="242" key="GridCell.Tab.0.center" timestamp="1592308010481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="242" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592308010481" />
+    <state width="1899" height="242" key="GridCell.Tab.0.left" timestamp="1592308010481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="242" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592308010481" />
+    <state width="1899" height="242" key="GridCell.Tab.0.right" timestamp="1592308010481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="242" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592308010481" />
+    <state width="1899" height="261" key="GridCell.Tab.1.bottom" timestamp="1592307518095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592307518095" />
+    <state width="1899" height="261" key="GridCell.Tab.1.center" timestamp="1592307518095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592307518095" />
+    <state width="1899" height="261" key="GridCell.Tab.1.left" timestamp="1592307518094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592307518094" />
+    <state width="1899" height="261" key="GridCell.Tab.1.right" timestamp="1592307518095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592307518095" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1592307039010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592307039010" />
   </component>
 </project>
