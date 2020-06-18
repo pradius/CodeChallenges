@@ -1,4 +1,4 @@
-package com.codechallenges;
+package com.codechallenges.Other;
 
 public class isLuckyNumber {
     static boolean isLuckyNumber(int n) {
