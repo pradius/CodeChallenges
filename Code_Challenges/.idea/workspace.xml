@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0b8189b-9695-47f0-8b37-6fc53a2bd4d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/CodeSignal/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/PascalTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/FirstNonRepeatingCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/FirstNonRepeatingCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/FirstNonRepeatingCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/FirstNonRepeatingCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/MergeSortedArray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,17 +67,17 @@
       <recent name="C:\Users\josec\Desktop\Projects\Code Challenges\HackerRank\src\com\hackerRank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSortedArray">
-    <configuration name="FulfillingOrders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.FulfillingOrders" />
+  <component name="RunManager" selected="Application.RotateImage">
+    <configuration name="FirstNonRepeatingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.FirstNonRepeatingCharacter" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.LongestSubarray" />
+    <configuration name="IsAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.IsAnagram" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -87,8 +92,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.ReverseStringII" />
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.PascalTriangle" />
+      <module name="CodeChallenges" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.CodeSignal.RotateImage" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -101,28 +114,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="validAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.validAnagram" />
-      <module name="CodeChallenges" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.LongestSubarray" />
-      <item itemvalue="Application.FulfillingOrders" />
-      <item itemvalue="Application.validAnagram" />
-      <item itemvalue="Application.ReverseStringII" />
       <item itemvalue="Application.MergeSortedArray" />
+      <item itemvalue="Application.PascalTriangle" />
+      <item itemvalue="Application.FirstNonRepeatingCharacter" />
+      <item itemvalue="Application.IsAnagram" />
+      <item itemvalue="Application.RotateImage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateImage" />
+        <item itemvalue="Application.PascalTriangle" />
+        <item itemvalue="Application.IsAnagram" />
+        <item itemvalue="Application.FirstNonRepeatingCharacter" />
         <item itemvalue="Application.MergeSortedArray" />
-        <item itemvalue="Application.ReverseStringII" />
-        <item itemvalue="Application.validAnagram" />
-        <item itemvalue="Application.LongestSubarray" />
-        <item itemvalue="Application.FulfillingOrders" />
       </list>
     </recent_temporary>
   </component>
@@ -192,52 +197,52 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592391587872" />
-    <state width="1877" height="162" key="GridCell.Tab.0.bottom" timestamp="1592608131971">
+    <state width="1877" height="161" key="GridCell.Tab.0.bottom" timestamp="1592699744753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="162" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592608131971" />
+    <state width="1877" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592699744753" />
     <state width="1914" height="1006" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="186" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592486376125" />
-    <state width="1877" height="162" key="GridCell.Tab.0.center" timestamp="1592608131971">
+    <state width="1877" height="161" key="GridCell.Tab.0.center" timestamp="1592699744753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="162" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592608131971" />
+    <state width="1877" height="161" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592699744753" />
     <state width="1914" height="1006" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="186" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592486376125" />
-    <state width="1877" height="162" key="GridCell.Tab.0.left" timestamp="1592608131971">
+    <state width="1877" height="161" key="GridCell.Tab.0.left" timestamp="1592699744753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="162" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592608131971" />
+    <state width="1877" height="161" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592699744753" />
     <state width="1914" height="1006" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="186" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592486376125" />
-    <state width="1877" height="162" key="GridCell.Tab.0.right" timestamp="1592608131971">
+    <state width="1877" height="161" key="GridCell.Tab.0.right" timestamp="1592699744753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="162" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592608131971" />
+    <state width="1877" height="161" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592699744753" />
     <state width="1914" height="1006" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="186" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592486376125" />
-    <state width="1892" height="219" key="GridCell.Tab.1.bottom" timestamp="1592497355754">
+    <state width="1914" height="1006" key="GridCell.Tab.1.bottom" timestamp="1592699744750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="219" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592497355754" />
+    <state width="1914" height="1006" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592699744750" />
     <state width="1914" height="1006" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592485600011" />
-    <state width="1892" height="219" key="GridCell.Tab.1.center" timestamp="1592497355754">
+    <state width="1914" height="1006" key="GridCell.Tab.1.center" timestamp="1592699744750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="219" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592497355754" />
+    <state width="1914" height="1006" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592699744750" />
     <state width="1914" height="1006" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="282" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592485600011" />
-    <state width="1892" height="219" key="GridCell.Tab.1.left" timestamp="1592497355754">
+    <state width="1914" height="1006" key="GridCell.Tab.1.left" timestamp="1592699744750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="219" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592497355754" />
+    <state width="1914" height="1006" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592699744750" />
     <state width="1914" height="1006" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="282" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592485600010" />
-    <state width="1892" height="219" key="GridCell.Tab.1.right" timestamp="1592497355754">
+    <state width="1914" height="1006" key="GridCell.Tab.1.right" timestamp="1592699744750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="219" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592497355754" />
+    <state width="1914" height="1006" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592699744750" />
     <state width="1914" height="1006" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592485600011" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1592391578831">
@@ -256,6 +261,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/FulfillingOrders.java</url>
           <line>21</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codechallenges/CodeSignal/RotateImage.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

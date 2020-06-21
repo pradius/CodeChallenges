@@ -24,7 +24,6 @@ public class FirstNonRepeatingCharacter {
                 next = current + 1;
             }
         }
-
         return characters[current];
     }
 }
