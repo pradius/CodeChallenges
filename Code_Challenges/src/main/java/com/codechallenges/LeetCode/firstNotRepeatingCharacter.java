@@ -1,9 +1,12 @@
-package com.codechallenges.CodeSignal.InterviewPractice;
+package com.codechallenges.LeetCode;
 
-import java.util.*;
+import java.util.LinkedHashSet;
+import java.util.Set;
 
 public class firstNotRepeatingCharacter {
-    public static char firstNotRepeatingCharacter(String s) {
+    public static int firstUniqChar(String s) {
+        if(s.isEmpty()) return -1;
+        if(s.length() == 1) return 0;
         Set<Character> totalChars = new LinkedHashSet<>();
         Set<Character> repeatedChars = new LinkedHashSet<>();
         for(char letter : s.toCharArray()){
@@ -15,13 +18,13 @@ public class firstNotRepeatingCharacter {
             }
         }
         for (Character value : totalChars){
-            if (!(repeatedChars.contains(value))) return value;
+            if (!(repeatedChars.contains(value))) return s.indexOf(value);
         }
 
-        return '_';
+        return -1;
     }
 
     public static void main(String[] args) {
-        System.out.println(firstNotRepeatingCharacter("ngrhhqbhnsipkcoqjyviikvxbxyphsnjpdxkhtadltsuxbfbrkof"));
+        System.out.println(firstUniqChar("ngrhhqbhnsipkcoqjyviikvxbxyphsnjpdxkhtadltsuxbfbrkof"));
     }
 }
