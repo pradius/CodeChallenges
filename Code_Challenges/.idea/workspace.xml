@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0b8189b-9695-47f0-8b37-6fc53a2bd4d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/BalancedBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/JavaStackBalanceStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/myComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/PermutationString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/UniqueOcurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/Other/FibbonaciFizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/FibonacciModified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/GCDSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/MarketingStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +73,7 @@
       <recent name="C:\Users\josec\Desktop\Projects\Code Challenges\HackerRank\src\com\hackerRank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BalancedBrackets">
+  <component name="RunManager" selected="Application.FibonacciModified">
     <configuration name="BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.BalancedBrackets" />
       <module name="CodeChallenges" />
@@ -85,24 +82,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaStackBalanceStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.JavaStackBalanceStrings" />
+    <configuration name="FibbonaciFizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.Other.FibbonaciFizzBuzz" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.PermutationString" />
+    <configuration name="FibonacciModified" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.FibonacciModified" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueOcurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.UniqueOcurrences" />
+    <configuration name="GCDSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.GCDSubsequence" />
+      <module name="CodeChallenges" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarketingStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.MarketingStrategy" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -115,28 +120,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="firstNotRepeatingCharacter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.firstNotRepeatingCharacter" />
-      <module name="CodeChallenges" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.firstNotRepeatingCharacter (1)" />
-      <item itemvalue="Application.UniqueOcurrences" />
-      <item itemvalue="Application.PermutationString" />
-      <item itemvalue="Application.JavaStackBalanceStrings" />
       <item itemvalue="Application.BalancedBrackets" />
+      <item itemvalue="Application.GCDSubsequence" />
+      <item itemvalue="Application.MarketingStrategy" />
+      <item itemvalue="Application.FibbonaciFizzBuzz" />
+      <item itemvalue="Application.FibonacciModified" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciModified" />
+        <item itemvalue="Application.FibbonaciFizzBuzz" />
+        <item itemvalue="Application.GCDSubsequence" />
+        <item itemvalue="Application.MarketingStrategy" />
         <item itemvalue="Application.BalancedBrackets" />
-        <item itemvalue="Application.JavaStackBalanceStrings" />
-        <item itemvalue="Application.PermutationString" />
-        <item itemvalue="Application.UniqueOcurrences" />
-        <item itemvalue="Application.firstNotRepeatingCharacter (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -210,52 +207,52 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1592391587872" />
-    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1593092523191">
+    <state width="1877" height="178" key="GridCell.Tab.0.bottom" timestamp="1593107221913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593092523191" />
+    <state width="1877" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593107221913" />
     <state width="1914" height="1006" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206398" />
-    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1593092523190">
+    <state width="1877" height="178" key="GridCell.Tab.0.center" timestamp="1593107221913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593092523190" />
+    <state width="1877" height="178" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593107221913" />
     <state width="1914" height="1006" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206397" />
-    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1593092523190">
+    <state width="1877" height="178" key="GridCell.Tab.0.left" timestamp="1593107221913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593092523190" />
+    <state width="1877" height="178" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593107221913" />
     <state width="1914" height="1006" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206397" />
-    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1593092523190">
+    <state width="1877" height="178" key="GridCell.Tab.0.right" timestamp="1593107221913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593092523190" />
+    <state width="1877" height="178" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593107221913" />
     <state width="1914" height="1006" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206397" />
-    <state width="1168" height="679" key="GridCell.Tab.1.bottom" timestamp="1593091185077">
+    <state width="1168" height="679" key="GridCell.Tab.1.bottom" timestamp="1593104180436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593091185077" />
+    <state width="1168" height="679" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593104180436" />
     <state width="1914" height="1006" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741925" />
-    <state width="1168" height="679" key="GridCell.Tab.1.center" timestamp="1593091185076">
+    <state width="1168" height="679" key="GridCell.Tab.1.center" timestamp="1593104180436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593091185076" />
+    <state width="1168" height="679" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593104180436" />
     <state width="1914" height="1006" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741925" />
-    <state width="1168" height="679" key="GridCell.Tab.1.left" timestamp="1593091185076">
+    <state width="1168" height="679" key="GridCell.Tab.1.left" timestamp="1593104180436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593091185076" />
+    <state width="1168" height="679" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593104180436" />
     <state width="1914" height="1006" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741924" />
-    <state width="1168" height="679" key="GridCell.Tab.1.right" timestamp="1593091185076">
+    <state width="1168" height="679" key="GridCell.Tab.1.right" timestamp="1593104180436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593091185076" />
+    <state width="1168" height="679" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593104180436" />
     <state width="1914" height="1006" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741925" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1592391578831">
@@ -266,6 +263,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="776" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592831420841" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1593098260558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593098260558" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592334535081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
