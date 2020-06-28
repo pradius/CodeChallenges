@@ -20,14 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0b8189b-9695-47f0-8b37-6fc53a2bd4d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/CodeSignal/Company_Challenges/CoverDebts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/JewelGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/NewKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/TheXORProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/Other/DeletionDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/Other/LongestFlatSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/Other/StockPriceRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/BloombergChallenges/MinCostClimbingStair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/BloombergChallenges/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/HammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/IntegerPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/MyTrie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/NimGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/StringPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/TwoCityScheduling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/JewelGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/JewelGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/PermutationString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/PermutationString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codechallenges/HackerRank/HackTheInterviewVContest/JewelGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codechallenges/HackerRank/HackTheInterviewVContest/JewelGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/PermutationString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/PermutationString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/build/reports/tests/test/classes/DartsTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/build/reports/tests/test/classes/DartsTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/build/test-results/test/TEST-DartsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/build/test-results/test/TEST-DartsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercism/java/darts/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercism/java/darts/build/test-results/test/binary/results.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,41 +99,41 @@
       <recent name="C:\Users\josec\Desktop\Projects\Code Challenges\HackerRank\src\com\hackerRank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JewelGame">
-    <configuration name="CoverDebts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.CodeSignal.Company_Challenges.CoverDebts" />
+  <component name="RunManager" selected="Application.MinCostClimbingStair">
+    <configuration name="IntegerPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.IntegerPermutations" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JewelGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.HackTheInterviewVContest.JewelGame" />
+    <configuration name="MinCostClimbingStair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.BloombergChallenges.MinCostClimbingStair" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewKeyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.HackTheInterviewVContest.NewKeyboard" />
+    <configuration name="MyTrie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.MyTrie" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockPriceRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.Other.StockPriceRun" />
+    <configuration name="PermutationString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.PermutationString" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheXORProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.HackTheInterviewVContest.TheXORProblem" />
+    <configuration name="StringPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.StringPermutation" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -125,19 +147,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StockPriceRun" />
-      <item itemvalue="Application.CoverDebts" />
-      <item itemvalue="Application.TheXORProblem" />
-      <item itemvalue="Application.NewKeyboard" />
-      <item itemvalue="Application.JewelGame" />
+      <item itemvalue="Application.MyTrie" />
+      <item itemvalue="Application.IntegerPermutations" />
+      <item itemvalue="Application.StringPermutation" />
+      <item itemvalue="Application.PermutationString" />
+      <item itemvalue="Application.MinCostClimbingStair" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JewelGame" />
-        <item itemvalue="Application.NewKeyboard" />
-        <item itemvalue="Application.TheXORProblem" />
-        <item itemvalue="Application.CoverDebts" />
-        <item itemvalue="Application.StockPriceRun" />
+        <item itemvalue="Application.MinCostClimbingStair" />
+        <item itemvalue="Application.PermutationString" />
+        <item itemvalue="Application.StringPermutation" />
+        <item itemvalue="Application.IntegerPermutations" />
+        <item itemvalue="Application.MyTrie" />
       </list>
     </recent_temporary>
   </component>
@@ -215,52 +237,52 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="502" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593139162054" />
-    <state width="1168" height="679" key="GridCell.Tab.0.bottom" timestamp="1593221891645">
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1593306779499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593221891645" />
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593306779499" />
     <state width="1914" height="1006" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206398" />
-    <state width="1168" height="679" key="GridCell.Tab.0.center" timestamp="1593221891645">
+    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1593306779499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593221891645" />
+    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593306779499" />
     <state width="1914" height="1006" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206397" />
-    <state width="1168" height="679" key="GridCell.Tab.0.left" timestamp="1593221891645">
+    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1593306779498">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593221891645" />
+    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593306779498" />
     <state width="1914" height="1006" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206397" />
-    <state width="1168" height="679" key="GridCell.Tab.0.right" timestamp="1593221891645">
+    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1593306779499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593221891645" />
+    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593306779499" />
     <state width="1914" height="1006" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206397" />
-    <state width="1168" height="679" key="GridCell.Tab.1.bottom" timestamp="1593221891646">
+    <state width="1168" height="679" key="GridCell.Tab.1.bottom" timestamp="1593302889825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593221891646" />
+    <state width="1168" height="679" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593302889825" />
     <state width="1914" height="1006" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741925" />
-    <state width="1168" height="679" key="GridCell.Tab.1.center" timestamp="1593221891645">
+    <state width="1168" height="679" key="GridCell.Tab.1.center" timestamp="1593302889824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593221891645" />
+    <state width="1168" height="679" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593302889824" />
     <state width="1914" height="1006" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741925" />
-    <state width="1168" height="679" key="GridCell.Tab.1.left" timestamp="1593221891645">
+    <state width="1168" height="679" key="GridCell.Tab.1.left" timestamp="1593302889824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593221891645" />
+    <state width="1168" height="679" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593302889824" />
     <state width="1914" height="1006" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741924" />
-    <state width="1168" height="679" key="GridCell.Tab.1.right" timestamp="1593221891645">
+    <state width="1168" height="679" key="GridCell.Tab.1.right" timestamp="1593302889825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593221891645" />
+    <state width="1168" height="679" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593302889825" />
     <state width="1914" height="1006" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741925" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1592391578831">
@@ -300,8 +322,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/JewelGame.java</url>
-          <line>16</line>
+          <line>17</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/StringPermutation.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DartsTest" tests="13" skipped="0" failures="4" errors="0" timestamp="2020-06-09T10:33:46" hostname="DESKTOP-0TO2RFA" time="0.041">
+<testsuite name="DartsTest" tests="13" skipped="0" failures="4" errors="0" timestamp="2020-06-27T01:50:55" hostname="DESKTOP-0TO2RFA" time="0.107">
   <properties/>
-  <testcase name="exactlyOnCentre" classname="DartsTest" time="0.026"/>
-  <testcase name="onTheInnerCircle" classname="DartsTest" time="0.003"/>
+  <testcase name="exactlyOnCentre" classname="DartsTest" time="0.083"/>
+  <testcase name="onTheInnerCircle" classname="DartsTest" time="0.004"/>
   <testcase name="justWithinTheInnerCircle" classname="DartsTest" time="0.001"/>
   <testcase name="justWithinTheMiddleCirlce" classname="DartsTest" time="0.001"/>
-  <testcase name="asymmetricPositionBetweenTheInnerAndMiddleCircles" classname="DartsTest" time="0.001"/>
-  <testcase name="nearTheCentre" classname="DartsTest" time="0.001"/>
-  <testcase name="missedTarget" classname="DartsTest" time="0.0"/>
-  <testcase name="justOutsideTheOuterCircle" classname="DartsTest" time="0.003">
+  <testcase name="asymmetricPositionBetweenTheInnerAndMiddleCircles" classname="DartsTest" time="0.0"/>
+  <testcase name="nearTheCentre" classname="DartsTest" time="0.0"/>
+  <testcase name="missedTarget" classname="DartsTest" time="0.003"/>
+  <testcase name="justOutsideTheOuterCircle" classname="DartsTest" time="0.008">
     <failure message="java.lang.AssertionError: expected:&lt;0&gt; but was:&lt;1&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;0&gt; but was:&lt;1&gt;
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.failNotEquals(Assert.java:835)
@@ -67,7 +67,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:834)
 </failure>
   </testcase>
-  <testcase name="justOutsideTheMiddleCircle" classname="DartsTest" time="0.0">
+  <testcase name="justOutsideTheMiddleCircle" classname="DartsTest" time="0.001">
     <failure message="java.lang.AssertionError: expected:&lt;1&gt; but was:&lt;5&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;1&gt; but was:&lt;5&gt;
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.failNotEquals(Assert.java:835)
@@ -127,7 +127,7 @@
 </failure>
   </testcase>
   <testcase name="onTheMiddleCircle" classname="DartsTest" time="0.001"/>
-  <testcase name="onTheOuterCircle" classname="DartsTest" time="0.0">
+  <testcase name="onTheOuterCircle" classname="DartsTest" time="0.001">
     <failure message="java.lang.AssertionError: expected:&lt;1&gt; but was:&lt;0&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;1&gt; but was:&lt;0&gt;
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.failNotEquals(Assert.java:835)
@@ -187,7 +187,7 @@
 </failure>
   </testcase>
   <testcase name="justWithinTheOuterCirlce" classname="DartsTest" time="0.001"/>
-  <testcase name="justOutsideTheInnerCircle" classname="DartsTest" time="0.0">
+  <testcase name="justOutsideTheInnerCircle" classname="DartsTest" time="0.001">
     <failure message="java.lang.AssertionError: expected:&lt;5&gt; but was:&lt;10&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;5&gt; but was:&lt;10&gt;
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.failNotEquals(Assert.java:835)

@@ -6,6 +6,7 @@ public class JewelGame {
 
     public static int getMaxScore(String jewels) {
         int points = 0;
+
         LinkedList<Character> pieces = new LinkedList<>();
         for(char c : jewels.toCharArray()){
             pieces.add(c);
@@ -32,5 +33,6 @@ public class JewelGame {
 
     public static void main(String[] args) {
         System.out.println("Expected: 2 - Actual: " + getMaxScore("abccbda"));
+        System.out.println("Expected: 3 - Actual: " + getMaxScore("abcddcbd"));
     }
 }
