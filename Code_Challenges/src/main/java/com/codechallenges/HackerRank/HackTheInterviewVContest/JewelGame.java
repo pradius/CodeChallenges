@@ -1,38 +1,51 @@
 package com.codechallenges.HackerRank.HackTheInterviewVContest;
 
-import java.util.LinkedList;
+
 
 public class JewelGame {
 
-    public static int getMaxScore(String jewels) {
-        int points = 0;
+    public static int getMaxScore(String str) {
+        StringBuilder jewels = new StringBuilder(str);
+        int points = 0, current = 0, next = 1;
 
-        LinkedList<Character> pieces = new LinkedList<>();
-        for(char c : jewels.toCharArray()){
-            pieces.add(c);
-        }
-
-        int current = 0;
-        int next = 1;
-
-        while (next < pieces.size()) {
-
-            if (pieces.get(current) == pieces.get(next)) {
-                pieces.remove(next);
-                pieces.remove(current);
+        while (next < jewels.length()) {
+            if (jewels.charAt(current) == jewels.charAt(next)) {
+                jewels.deleteCharAt(next);
+                jewels.deleteCharAt(current);
                 current = 0;
                 next = 1;
                 points++;
+            }else{
+                current++;
+                next++;
             }
-            current++;
-            next++;
         }
-
         return points;
     }
 
+
+//     public static int getMaxScore(String jewels) {
+//        if (jewels.length() == 1) return 0;
+//        int points = 0, current = 0, next = 1;
+//
+//        while (next < jewels.length()) {
+//            if (jewels.charAt(current) == jewels.charAt(next)) {
+//                points++;
+//                break;
+//            }
+//            current++;
+//            next++;
+//        }
+//
+//        if(next == jewels.length()) return points;
+//
+//        points += getMaxScore(jewels.substring(0, current) + jewels.substring(next + 1));
+//        return points;
+//    }
+
     public static void main(String[] args) {
         System.out.println("Expected: 2 - Actual: " + getMaxScore("abccbda"));
+        System.out.println("Expected: 0 - Actual: " + getMaxScore("abcd"));
         System.out.println("Expected: 3 - Actual: " + getMaxScore("abcddcbd"));
     }
 }

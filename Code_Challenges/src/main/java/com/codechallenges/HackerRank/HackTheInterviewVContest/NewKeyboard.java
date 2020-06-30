@@ -6,6 +6,7 @@ import java.util.List;
 public class NewKeyboard {
 
     public static String receivedText(String S) {
+
         List<String> sentences = new ArrayList<>();
         boolean isNumLock = true;
         boolean isHome = false;
@@ -64,14 +65,14 @@ public class NewKeyboard {
                         }
                     }
             }
-
         }
-
         return String.join("", sentences);
     }
 
+
     public static void main(String[] args) {
         System.out.println("Expected: LLHO  - Actual: " + receivedText("HE*<LL>O"));
+        System.out.println("Expected: LLHO  - Actual: " + receivedText("HE*<LT>O"));
         System.out.println("Expected: LLHO22 - Actual: " + receivedText("HE*<LL>O22"));
         System.out.println("Expected: LLHE2O22 - Actual: " + receivedText("HE22*<LL>O22"));
         System.out.println("Expected: L2EO - Actual: " + receivedText("2E2#2*<L*L>O22"));
