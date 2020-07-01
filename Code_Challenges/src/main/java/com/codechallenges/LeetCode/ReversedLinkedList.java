@@ -5,32 +5,52 @@ import java.util.Stack;
 
 public class ReversedLinkedList {
 
-
-      //Definition for singly-linked list.
-      public class ListNode {
-          int val;
-          ListNode next;
-          ListNode() {}
-          ListNode(int val) { this.val = val; }
-          ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-      }
-
     public ListNode reverseList(ListNode head) {
-        ListNode output = new ListNode();
-        Stack<ListNode> temp = new Stack<>();
+        ListNode output = null;
 
-        while(head != null){
-            temp.push(head);
-            head = head.next;
+        while (head != null) {
+            ListNode next = head.next;
+            head.next = output;
+            output = head;
+            head = next;
         }
 
-        output = temp.pop();
-        ListNode current;
-        while(!temp.empty()){
-            output.next = temp.pop();
-            current = output.next;
-            output = current;
-        }
         return output;
+    }
+
+    public boolean isPalindrome(ListNode head) {
+        Stack<ListNode> stack = new Stack<>();
+        ListNode current = head;
+
+        while (current != null) {
+            stack.push(current);
+            current = current.next;
+        }
+
+        current = head;
+
+        while (current != null) {
+            if (current.val != stack.pop().val) return false;
+            current = current.next;
+        }
+        return true;
+    }
+
+    //Definition for singly-linked list.
+    public class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode() {
+        }
+
+        ListNode(int val) {
+            this.val = val;
+        }
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
+        }
     }
 }

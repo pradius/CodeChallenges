@@ -20,22 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0b8189b-9695-47f0-8b37-6fc53a2bd4d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HeightBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/InOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/PreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/ReversedLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/RunningSum1DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/TopKFrequentWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/MaxStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/ValidPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/JewelGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/JewelGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/NewKeyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/NewKeyboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/TheXORProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/HackerRank/HackTheInterviewVContest/TheXORProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/NimGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/NimGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codechallenges/HackerRank/HackTheInterviewVContest/JewelGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codechallenges/HackerRank/HackTheInterviewVContest/JewelGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codechallenges/HackerRank/HackTheInterviewVContest/NewKeyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codechallenges/HackerRank/HackTheInterviewVContest/NewKeyboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codechallenges/HackerRank/HackTheInterviewVContest/TheXORProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codechallenges/HackerRank/HackTheInterviewVContest/TheXORProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/NimGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/NimGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/ReversedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/ReversedLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/ReversedLinkedList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/ReversedLinkedList$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/ReversedLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codechallenges/LeetCode/ReversedLinkedList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +76,7 @@
       <recent name="C:\Users\josec\Desktop\Projects\Code Challenges\HackerRank\src\com\hackerRank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RunningSum1DArray">
+  <component name="RunManager" selected="Application.ValidPalindrome">
     <configuration name="NewKeyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.HackTheInterviewVContest.NewKeyboard" />
       <module name="CodeChallenges" />
@@ -110,16 +101,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheXORProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.HackerRank.HackTheInterviewVContest.TheXORProblem" />
+    <configuration name="TopKFrequentWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.TopKFrequentWords" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopKFrequentWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.TopKFrequentWords" />
+    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechallenges.LeetCode.ValidPalindrome" />
       <module name="CodeChallenges" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -133,19 +124,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TheXORProblem" />
       <item itemvalue="Application.NewKeyboard" />
       <item itemvalue="Application.NimGame" />
       <item itemvalue="Application.TopKFrequentWords" />
       <item itemvalue="Application.RunningSum1DArray" />
+      <item itemvalue="Application.ValidPalindrome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidPalindrome" />
         <item itemvalue="Application.RunningSum1DArray" />
         <item itemvalue="Application.TopKFrequentWords" />
         <item itemvalue="Application.NimGame" />
         <item itemvalue="Application.NewKeyboard" />
-        <item itemvalue="Application.TheXORProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -223,52 +214,52 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="502" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593345114964" />
-    <state width="1877" height="252" key="GridCell.Tab.0.bottom" timestamp="1593532288077">
+    <state width="1168" height="679" key="GridCell.Tab.0.bottom" timestamp="1593561350127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593532288077" />
+    <state width="1168" height="679" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593561350127" />
     <state width="1914" height="1006" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206398" />
-    <state width="1877" height="252" key="GridCell.Tab.0.center" timestamp="1593532288077">
+    <state width="1168" height="679" key="GridCell.Tab.0.center" timestamp="1593561350127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593532288077" />
+    <state width="1168" height="679" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593561350127" />
     <state width="1914" height="1006" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206397" />
-    <state width="1877" height="252" key="GridCell.Tab.0.left" timestamp="1593532288077">
+    <state width="1168" height="679" key="GridCell.Tab.0.left" timestamp="1593561350126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593532288077" />
+    <state width="1168" height="679" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593561350126" />
     <state width="1914" height="1006" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206397" />
-    <state width="1877" height="252" key="GridCell.Tab.0.right" timestamp="1593532288077">
+    <state width="1168" height="679" key="GridCell.Tab.0.right" timestamp="1593561350127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593532288077" />
+    <state width="1168" height="679" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593561350127" />
     <state width="1914" height="1006" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1877" height="100" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037206397" />
-    <state width="1168" height="679" key="GridCell.Tab.1.bottom" timestamp="1593449779022">
+    <state width="1168" height="679" key="GridCell.Tab.1.bottom" timestamp="1593561350127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593449779022" />
+    <state width="1168" height="679" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593561350127" />
     <state width="1914" height="1006" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741925" />
-    <state width="1168" height="679" key="GridCell.Tab.1.center" timestamp="1593449779021">
+    <state width="1168" height="679" key="GridCell.Tab.1.center" timestamp="1593561350127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593449779021" />
+    <state width="1168" height="679" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593561350127" />
     <state width="1914" height="1006" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741925" />
-    <state width="1168" height="679" key="GridCell.Tab.1.left" timestamp="1593449779021">
+    <state width="1168" height="679" key="GridCell.Tab.1.left" timestamp="1593561350127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593449779021" />
+    <state width="1168" height="679" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593561350127" />
     <state width="1914" height="1006" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741924" />
-    <state width="1168" height="679" key="GridCell.Tab.1.right" timestamp="1593449779022">
+    <state width="1168" height="679" key="GridCell.Tab.1.right" timestamp="1593561350127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1168" height="679" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593449779022" />
+    <state width="1168" height="679" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593561350127" />
     <state width="1914" height="1006" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1592482852402" />
     <state width="1168" height="679" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593009741925" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1592391578831">
@@ -283,10 +274,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593098260558" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593464478113">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593557573176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593464478113" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593557573176" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592334535081" />
   </component>
   <component name="XDebuggerManager">
@@ -311,6 +302,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/StringPermutation.java</url>
           <line>17</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codechallenges/LeetCode/ValidPalindrome.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
